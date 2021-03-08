@@ -1,3 +1,4 @@
+
 package compresionmenu;
 
 public class CompresionMenu {
@@ -5,8 +6,7 @@ public class CompresionMenu {
     public static void main(String[] args) {
    
         System.out.println("seleccione opcion");
-        dnsdnvsldvs
-        se puede?
+        
     }
     
 }
