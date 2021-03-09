@@ -1,12 +1,35 @@
-
 package compresionmenu;
+
+import java.util.Scanner;
+
+class CompressionAlgorithm {
+
+    public String compress(String filename) {
+        return filename;
+    }
+
+}
+
+class Zip extends CompressionAlgorithm {
+
+}
+
+class Rar extends CompressionAlgorithm {
+
+}
+
+class Z extends CompressionAlgorithm {
+
+}
 
 public class CompresionMenu {
 
-    public static void main(String[] args) {
-   
-        System.out.println("seleccione opcion");
-        
+    private void menu(Scanner sc) {
+
     }
-    
+
+    public static void main(String[] args) {
+
+    }
+
 }
